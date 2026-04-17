@@ -36,21 +36,21 @@ Como dono, eu quero ver separação por tipo de pagamento, para controle finance
 
 Como funcionário, eu quero registrar vendas para clientes que não estão hospedados, para não perder vendas externas.
 
-requisitosRequisitos Funcionais
-O sistema deve exibir um mapa de quartos com status (livre, ocupado, sujo).
-O sistema deve permitir cadastro, edição e busca de hóspedes.
-O sistema deve permitir criação de reservas por data.
-O sistema deve permitir check-in e check-out.
-O sistema deve registrar consumo vinculado ao quarto.
-O sistema deve calcular automaticamente o total da conta.
-O sistema deve permitir cadastro de produtos com preço.
-O sistema deve permitir atualização de preços.
-O sistema deve controlar estoque com baixa automática.
-O sistema deve permitir venda avulsa (sem vínculo com quarto).
-O sistema deve permitir alterar status de limpeza dos quartos.
-O sistema deve emitir alertas de quartos sujos.
-O sistema deve gerar relatórios diários e mensais.
-O sistema deve registrar formas de pagamento.
-O sistema deve permitir acesso via internet (nuvem).
-O sistema deve permitir login com autenticação.
+requisitosRequisitos Funcionais  
+O sistema deve exibir um mapa de quartos com status (livre, ocupado, sujo).  
+O sistema deve permitir cadastro, edição e busca de hóspedes.  
+O sistema deve permitir criação de reservas por data.  
+O sistema deve permitir check-in e check-out.  
+O sistema deve registrar consumo vinculado ao quarto.  
+O sistema deve calcular automaticamente o total da conta.  
+O sistema deve permitir cadastro de produtos com preço.  
+O sistema deve permitir atualização de preços.  
+O sistema deve controlar estoque com baixa automática.  
+O sistema deve permitir venda avulsa (sem vínculo com quarto).  
+O sistema deve permitir alterar status de limpeza dos quartos.  
+O sistema deve emitir alertas de quartos sujos.  
+O sistema deve gerar relatórios diários e mensais.  
+O sistema deve registrar formas de pagamento.  
+O sistema deve permitir acesso via internet (nuvem).  
+O sistema deve permitir login com autenticação.  
 
